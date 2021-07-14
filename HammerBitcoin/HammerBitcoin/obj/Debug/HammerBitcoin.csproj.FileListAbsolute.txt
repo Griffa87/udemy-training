@@ -1,0 +1,6 @@
+C:\Users\wgriffin\Repos\C# Projects\HammerBitcoin\HammerBitcoin\bin\Debug\HammerBitcoin.exe.config
+C:\Users\wgriffin\Repos\C# Projects\HammerBitcoin\HammerBitcoin\bin\Debug\HammerBitcoin.exe
+C:\Users\wgriffin\Repos\C# Projects\HammerBitcoin\HammerBitcoin\bin\Debug\HammerBitcoin.pdb
+C:\Users\wgriffin\Repos\C# Projects\HammerBitcoin\HammerBitcoin\obj\Debug\HammerBitcoin.csproj.CoreCompileInputs.cache
+C:\Users\wgriffin\Repos\C# Projects\HammerBitcoin\HammerBitcoin\obj\Debug\HammerBitcoin.exe
+C:\Users\wgriffin\Repos\C# Projects\HammerBitcoin\HammerBitcoin\obj\Debug\HammerBitcoin.pdb

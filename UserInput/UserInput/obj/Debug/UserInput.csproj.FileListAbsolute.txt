@@ -1,0 +1,7 @@
+C:\Users\wgriffin\Repos\C# Projects\UserInput\UserInput\bin\Debug\UserInput.exe.config
+C:\Users\wgriffin\Repos\C# Projects\UserInput\UserInput\bin\Debug\UserInput.exe
+C:\Users\wgriffin\Repos\C# Projects\UserInput\UserInput\bin\Debug\UserInput.pdb
+C:\Users\wgriffin\Repos\C# Projects\UserInput\UserInput\obj\Debug\UserInput.csproj.AssemblyReference.cache
+C:\Users\wgriffin\Repos\C# Projects\UserInput\UserInput\obj\Debug\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\wgriffin\Repos\C# Projects\UserInput\UserInput\obj\Debug\UserInput.exe
+C:\Users\wgriffin\Repos\C# Projects\UserInput\UserInput\obj\Debug\UserInput.pdb

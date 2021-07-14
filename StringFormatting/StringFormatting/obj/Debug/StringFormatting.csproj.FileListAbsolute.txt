@@ -1,0 +1,7 @@
+C:\Users\wgriffin\Repos\C# Projects\StringFormatting\StringFormatting\obj\Debug\StringFormatting.csproj.CoreCompileInputs.cache
+C:\Users\wgriffin\Repos\C# Projects\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe.config
+C:\Users\wgriffin\Repos\C# Projects\StringFormatting\StringFormatting\bin\Debug\StringFormatting.exe
+C:\Users\wgriffin\Repos\C# Projects\StringFormatting\StringFormatting\bin\Debug\StringFormatting.pdb
+C:\Users\wgriffin\Repos\C# Projects\StringFormatting\StringFormatting\obj\Debug\StringFormatting.exe
+C:\Users\wgriffin\Repos\C# Projects\StringFormatting\StringFormatting\obj\Debug\StringFormatting.pdb
+C:\Users\wgriffin\Repos\C# Projects\StringFormatting\StringFormatting\obj\Debug\StringFormatting.csproj.AssemblyReference.cache
