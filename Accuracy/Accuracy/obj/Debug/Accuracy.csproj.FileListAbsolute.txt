@@ -1,0 +1,6 @@
+C:\Users\wgriffin\Repos\C# Projects\Accuracy\Accuracy\bin\Debug\Accuracy.exe.config
+C:\Users\wgriffin\Repos\C# Projects\Accuracy\Accuracy\bin\Debug\Accuracy.exe
+C:\Users\wgriffin\Repos\C# Projects\Accuracy\Accuracy\bin\Debug\Accuracy.pdb
+C:\Users\wgriffin\Repos\C# Projects\Accuracy\Accuracy\obj\Debug\Accuracy.csproj.CoreCompileInputs.cache
+C:\Users\wgriffin\Repos\C# Projects\Accuracy\Accuracy\obj\Debug\Accuracy.exe
+C:\Users\wgriffin\Repos\C# Projects\Accuracy\Accuracy\obj\Debug\Accuracy.pdb

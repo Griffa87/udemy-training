@@ -1,0 +1,7 @@
+C:\Users\wgriffin\Repos\C# Projects\BuiltInTypes\BuiltInTypes\bin\Debug\BuiltInTypes.exe.config
+C:\Users\wgriffin\Repos\C# Projects\BuiltInTypes\BuiltInTypes\bin\Debug\BuiltInTypes.exe
+C:\Users\wgriffin\Repos\C# Projects\BuiltInTypes\BuiltInTypes\bin\Debug\BuiltInTypes.pdb
+C:\Users\wgriffin\Repos\C# Projects\BuiltInTypes\BuiltInTypes\obj\Debug\BuiltInTypes.csproj.AssemblyReference.cache
+C:\Users\wgriffin\Repos\C# Projects\BuiltInTypes\BuiltInTypes\obj\Debug\BuiltInTypes.csproj.CoreCompileInputs.cache
+C:\Users\wgriffin\Repos\C# Projects\BuiltInTypes\BuiltInTypes\obj\Debug\BuiltInTypes.exe
+C:\Users\wgriffin\Repos\C# Projects\BuiltInTypes\BuiltInTypes\obj\Debug\BuiltInTypes.pdb

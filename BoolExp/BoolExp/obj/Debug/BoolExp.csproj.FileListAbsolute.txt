@@ -1,0 +1,6 @@
+C:\Users\wgriffin\Repos\C# Projects\BoolExp\BoolExp\bin\Debug\BoolExp.exe.config
+C:\Users\wgriffin\Repos\C# Projects\BoolExp\BoolExp\bin\Debug\BoolExp.exe
+C:\Users\wgriffin\Repos\C# Projects\BoolExp\BoolExp\bin\Debug\BoolExp.pdb
+C:\Users\wgriffin\Repos\C# Projects\BoolExp\BoolExp\obj\Debug\BoolExp.csproj.CoreCompileInputs.cache
+C:\Users\wgriffin\Repos\C# Projects\BoolExp\BoolExp\obj\Debug\BoolExp.exe
+C:\Users\wgriffin\Repos\C# Projects\BoolExp\BoolExp\obj\Debug\BoolExp.pdb
