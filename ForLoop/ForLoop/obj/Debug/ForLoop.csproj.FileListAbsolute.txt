@@ -1,0 +1,7 @@
+C:\Users\wgriffin\Repos\C# Projects\ForLoop\ForLoop\bin\Debug\ForLoop.exe.config
+C:\Users\wgriffin\Repos\C# Projects\ForLoop\ForLoop\bin\Debug\ForLoop.exe
+C:\Users\wgriffin\Repos\C# Projects\ForLoop\ForLoop\bin\Debug\ForLoop.pdb
+C:\Users\wgriffin\Repos\C# Projects\ForLoop\ForLoop\obj\Debug\ForLoop.csproj.AssemblyReference.cache
+C:\Users\wgriffin\Repos\C# Projects\ForLoop\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\wgriffin\Repos\C# Projects\ForLoop\ForLoop\obj\Debug\ForLoop.exe
+C:\Users\wgriffin\Repos\C# Projects\ForLoop\ForLoop\obj\Debug\ForLoop.pdb

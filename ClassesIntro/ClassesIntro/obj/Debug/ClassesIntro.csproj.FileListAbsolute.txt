@@ -1,0 +1,7 @@
+C:\Users\wgriffin\Repos\C# Projects\ClassesIntro\ClassesIntro\bin\Debug\ClassesIntro.exe.config
+C:\Users\wgriffin\Repos\C# Projects\ClassesIntro\ClassesIntro\bin\Debug\ClassesIntro.exe
+C:\Users\wgriffin\Repos\C# Projects\ClassesIntro\ClassesIntro\bin\Debug\ClassesIntro.pdb
+C:\Users\wgriffin\Repos\C# Projects\ClassesIntro\ClassesIntro\obj\Debug\ClassesIntro.csproj.AssemblyReference.cache
+C:\Users\wgriffin\Repos\C# Projects\ClassesIntro\ClassesIntro\obj\Debug\ClassesIntro.csproj.CoreCompileInputs.cache
+C:\Users\wgriffin\Repos\C# Projects\ClassesIntro\ClassesIntro\obj\Debug\ClassesIntro.exe
+C:\Users\wgriffin\Repos\C# Projects\ClassesIntro\ClassesIntro\obj\Debug\ClassesIntro.pdb
